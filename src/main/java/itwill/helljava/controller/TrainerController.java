@@ -270,7 +270,7 @@ public class TrainerController {
 			MultipartFile modifyProfileImage = request.getFile("profileImage");
 
 			// 기존 파일 삭제
-			new File(uploadProfileDirectory, dbTrainer.getTrainerProfileImg());
+			new File(uploadProfileDirectory, dbTrainer.getTrainerProfileImg()).delete();
 
 			// 서버에 저장할 파일 객체 생성 (서버 디렉토리 경로, 받아온 파일의 이름)
 			File file = new File(uploadProfileDirectory, modifyProfileImage.getOriginalFilename());
