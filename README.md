@@ -20,9 +20,9 @@ Pt matching platform with Spring Framework
 - 가장 대중적인 헬스를 기반으로 PT 트레이너와 회원의 중계가 가능한 사이트를 만들게 되었습니다.
 
 ### Team
-- 총 4명
-- Front 2명 (주로 View 관련, JSP, JavaScript)
-- Back 2명 (서비스 로직 : Sql, Controller, Service 등등)
+- 4명
+- Front : 2 View (JSP, JavaScript)
+- Back : 2 (Controller, Service, Repository, SQL mapper)
 
 ## Project Period
 - 2022.03.24 ~ 2022.04.13
@@ -31,10 +31,10 @@ Pt matching platform with Spring Framework
 ## 개발 환경 
 
 ```sh
-Windows10
+Spring Framework 5.0
 Oracle
+Mybatis
 apache-tomcat-9.0.56
-STS
 Eclipse
 ```
 
