@@ -14,12 +14,12 @@ Pt matching platform with Spring Framework
 
 ![](../header.png)
 
-### 개요
-- 팀프로젝트로 진행하여 스프링 프레임워크를 이용해서 PT 중계 플랫폼 웹 사이트를 제작했습니다. <br>
-- 장기화된 코로나로 인해 운동 부족으로 인한 건강상의 문제로 운동에 대한 관심이 늘게 된 것을 파악했습니다. <br>
-- 가장 대중적인 헬스를 기반으로 PT 트레이너와 회원의 중계가 가능한 사이트를 만들게 되었습니다.
+## 개요
+- 팀프로젝트로 스프링 프레임워크를 이용해서 PT 중계 플랫폼 웹 사이트를 제작. <br>
+- 장기화된 코로나로 인해 운동 부족으로 인한 건강상의 문제로 대중들의 운동에 대한 관심이 증가한 것을 파악. <br>
+- 가장 대중적인 헬스를 기반으로 PT 트레이너와 회원의 중계가 가능한 프로젝트 시작.
 
-### Team
+## Team
 - 4명
 - Front : 2 View (JSP, JavaScript)
 - Back : 2 (Controller, Service, Repository, SQL mapper)
@@ -211,7 +211,7 @@ Eclipse
 - 수상 경력 및 이력은 ajax로 처리
 
 
-## 정보
+## Information
 
 ### DB ERD Model
 <img src="https://user-images.githubusercontent.com/89288109/166461660-751e5e4f-192d-4607-915b-8433088cd4da.png" width="800" height="500">
