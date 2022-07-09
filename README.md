@@ -16,7 +16,7 @@ Pt matching platform with Spring Framework
 
 ## 개요 
 - 장기화된 코로나로 운동 부족으로 인한 건강상의 문제로 대중들의 운동에 대한 관심이 증가한 것을 파악.
-- 가장 대중적인 헬스를 기반으로 PT 트레이너와 회원의 중계가 가능한 플랫폼을 제작하게 됨.
+- 가장 대중적인 헬스를 기반으로 PT 트레이너와 회원의 중계가 가능한 플랫폼을 제작.
 
 ## Team
 - 4명
@@ -30,11 +30,12 @@ Pt matching platform with Spring Framework
 ## 개발 환경 
 
 ```sh
+Java 17
 Spring Framework 5.0
-Oracle
+Oracle XE 11g
 Mybatis
 apache-tomcat-9.0.56
-Eclipse
+Eclipse 2021-09
 ```
 
 ## 사용 예제
