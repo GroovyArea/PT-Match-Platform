@@ -216,9 +216,6 @@ Eclipse 2021-09
 ### DB ERD Model
 <img src="https://user-images.githubusercontent.com/89288109/166461660-751e5e4f-192d-4607-915b-8433088cd4da.png" width="800" height="500">
 
-### 중계 플랫폼 사이트 
-- http://www.itwill.xyz/healthJava/ 
-- 위 링크에서 확인 가능합니다.
 
 ### 프로젝트 회고
 - https://sweeeetgoguma.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EB%84%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%84%88-%EB%A7%A4%EC%B9%AD-%EC%82%AC%EC%9D%B4%ED%8A%B8?category=931977
